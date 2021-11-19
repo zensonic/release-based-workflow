@@ -5,6 +5,8 @@ mobile HTML5 Game Development.
 
 It is released under both the GPL and MIT license to do with what you will.
 
+https://github.com/zensonic
+
 Playable Version: 
 http://cykod.github.com/AlienInvasion/
 
